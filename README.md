@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @FuBu-SEMPAI
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning CSS. I'm going to learn Java after CSS.
+- 👀 I’m interested in programming and design.
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on beginner programmers to develop together and have fun.
 - 📫 You can reach me by email: FuBuSEMPAI@gmail.com
-- My skills: Basic Photoshop skills...
+- My skills: Basic Photoshop skills, HTML/CSS Basics...
 
 
 <!---
