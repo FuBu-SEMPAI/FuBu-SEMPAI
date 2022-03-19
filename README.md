@@ -5,9 +5,6 @@
 - 📫 You can reach me by email: FuBuSEMPAI@gmail.com
 - My skills: Basic Photoshop skills...
 
-<br>P.S: I am from the CIS, so I can communicate in Russian <br>
-P.S: Я из СНГ, поэтому могу разговаривать на русском
-
 
 <!---
 FuBu-SEMPAI/FuBu-SEMPAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
